@@ -1,0 +1,8 @@
+/* 
+    Babel Configuration
+*/  
+{
+	"presets":[
+			"env", "react"
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "at-rule-empty-line-before": [ "always", {
+      "except": ["blockless-after-same-name-blockless"]
+    }],
+    "declaration-empty-line-before": "never"
+  }
+}
